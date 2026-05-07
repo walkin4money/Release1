@@ -1,0 +1,10 @@
+x64/
+Debug/
+Release/
+*.exe
+*.obj
+*.user
+
+# Папки сборки
+Release1/
+Debug/
